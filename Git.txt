@@ -1,5 +1,10 @@
-Перести файлы из ветки master в ветку main:
+Подключение:
+git remote add origin <URL>
+git add <file>
+git commit -m "Initial commit"
+git push -u origin master
 
+Перести файлы из ветки master в ветку main:
 git checkout main
 git checkout master <путь до файла>  
 git commit -m "перенос файла"
