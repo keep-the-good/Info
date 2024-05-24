@@ -1,8 +1,8 @@
 Подключение:
 git remote add origin <URL>
 git add <file>
-git commit -m "Initial commit"
-git push -u origin master
+git commit -m "text"
+git push -u origin <current brunch>
 
 Перести файлы из ветки master в ветку main:
 git checkout main
