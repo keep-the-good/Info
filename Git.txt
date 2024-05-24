@@ -1,0 +1,9 @@
+Перести файлы из ветки master в ветку main:
+
+git checkout main
+git checkout master <путь до файла>  
+git commit -m "перенос файла"
+git push
+
+
+
